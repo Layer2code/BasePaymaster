@@ -1,0 +1,18 @@
+node_modules
+.env
+mnemonic.txt
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache_hardhat
+cache
+artifacts
+
+# forge files
+cache_forge
+out
+
+dist
